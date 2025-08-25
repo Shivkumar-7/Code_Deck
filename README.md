@@ -31,22 +31,6 @@ An online **multi-language code editor** powered by **Judge0 API** where users c
 
 ---
 
-🔗 Links & References
-
-🌐 Live Project
-
-⚡ Judge0 CE API Testing
-
-📖 Judge0 CE API Docs
-
-🎨 Styled Components Docs
-
-🖊️ CodeMirror Docs
-
-▲ Vercel
-git clone https://github.com/your-username/codedeck.git
-cd codedeck
-
 📜 License
 
 MIT License © 2025 [Shiv Kumar]
